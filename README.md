@@ -22,12 +22,6 @@ Users can log in, send messages, and enjoy a responsive UI.
 
 ---
 
-## 📷 Screenshots
-
-_(Add screenshots of your app here for better presentation)_
-
----
-
 ## 🧪 How to Run Locally
 
 ```bash
